@@ -1,0 +1,11 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300);
+@import "compass/reset";
+
+/*
+* DEFAULTS
+*/
+$font-size: 16px;
+
+body {
+  font: normal $font-size 'Roboto Slab', serif;
+}
